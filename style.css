@@ -30,3 +30,13 @@ textarea {
 /* ***********CSS Reset END*************** */
 
 /* Your style */
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    position: absolute;
+    color: tomato;
+}
